@@ -1,0 +1,10 @@
+    ISIM                          SOYISIM                      KAZANILAN
+-------------                 ---------------               ---------------
+
+
+
+
+BERAT                         OK                            1000000 TL
+OGUZ                          ARAC                          250000  TL
+SONER                         SIMSEK                        0       TL
+MAHMUT                        EKREM                         0       TL

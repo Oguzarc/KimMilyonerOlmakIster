@@ -1,0 +1,4 @@
+﻿  kimmilyoner.cpp
+c:\users\berat\onedrive\belgeler\visual studio 2017\projects\kimmilyonerolmakİster\kimmilyonerolmakİster\kimmilyoner.cpp(43): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  KimMilyonerOlmakİster.vcxproj -> C:\Users\berat\onedrive\belgeler\visual studio 2017\Projects\KimMilyonerOlmakİster\Debug\KimMilyonerOlmakİster.exe
+  KimMilyonerOlmakİster.vcxproj -> C:\Users\berat\onedrive\belgeler\visual studio 2017\Projects\KimMilyonerOlmakİster\Debug\KimMilyonerOlmakİster.pdb (Partial PDB)
